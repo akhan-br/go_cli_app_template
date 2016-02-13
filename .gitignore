@@ -1,0 +1,4 @@
+ebXbuilder/_vendor/*
+ebXbuilder/bin/*
+ebXbuilder/pkg/*
+ebXbuilder/docs/*
